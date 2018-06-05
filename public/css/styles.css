@@ -1,0 +1,23 @@
+html, body {
+	height: 100%;
+}
+
+.my-navbar {
+	padding: 0px 130px;
+	height: 56px;
+}
+
+.map-container { 
+  height: calc(100% - 56px);
+}
+.nav-mt {
+	margin-top: 56px;
+}
+
+#mapid {
+	height: 100%;
+}
+
+.hidden {
+	display: none;
+}
